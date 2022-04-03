@@ -1,1 +1,1 @@
-# redux_tutorial
+# redux_essentials_example
